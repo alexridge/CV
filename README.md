@@ -1,6 +1,6 @@
-## Your Name
+## Alexander Ridgeway
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am an aspiring software developer with a passion for learning and trying something new. 
 
 ## Projects
 
@@ -11,10 +11,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**The Victoria** (march,2022-current)  
+_Waiter_
+-Teamworking
+-Communication
+-Conflict resolution
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -23,7 +24,7 @@ _Your job title_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
@@ -51,7 +52,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## Education 
+Currently I have only gone so far as to completing my A-levels in which i achieved:
+Mathmatics - A
+Further Mathmatics - C
+Physics - B
 
 #### Makers Academy (start_date to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
@@ -73,5 +78,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
+Most of my free time is spent training in the gym or playing video games 
 
-Any cool stuff that makes you a super part of a software development team
