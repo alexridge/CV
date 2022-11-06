@@ -1,6 +1,6 @@
 ## Alexander Ridgeway
 
-I am an aspiring software developer with a passion for learning and trying something new. 
+I am an aspiring software developer with a passion for learning and trying something new. I have hopes of gaining skills and expertise among other subsectors within the tech industry. 
 
 ## Projects
 
