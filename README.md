@@ -11,7 +11,7 @@ I am an aspiring software developer with a passion for learning and trying somet
 
 ## Work Experience
 
-**The Victoria** (march,2022-current)  
+**The Victoria** (March,2022-current)  
 _Waiter_
 -Teamworking
 -Communication
