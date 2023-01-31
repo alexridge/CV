@@ -78,5 +78,5 @@ Physics - B
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-Most of my free time is spent training in the gym or playing video games 
+I have a variety of hobbies including weightlifting, fishing and sailing among others.
 
