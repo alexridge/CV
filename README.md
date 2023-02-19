@@ -4,26 +4,20 @@ I am an aspiring software developer with a passion for learning and trying somet
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         |                           Description                      |            Tech/tools         |
+| ---------------------------- | ---------------------------------------------------------- | ----------------------------- |
+| **This Day in History**      | A webapp to show events on this day in history.            | React, Jest, Cypress, MongoDB |
+| **Bank App**                 | A simple webapp to do add, subtract and show transactions. | Javascript, Jest              |
 
 ## Work Experience
 
 **The Victoria** (March,2022-December,2022)  
 _Waiter_
--Teamworking
--Communication
+-Teamworking & Communication
+This was really important especially on busy days and/or on events where the whole restaurant was booked. This teamwork was essential to keep everything running 
+smoothly, not only on the floor but between the wait staff the bar staff and the kitchen.
 -Conflict resolution
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
+This was vital when mishaps happened in any part of the business.
 #Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
@@ -46,7 +40,7 @@ _Your job title_
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
+p
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
@@ -58,7 +52,7 @@ Mathmatics - A
 Further Mathmatics - C
 Physics - B
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November to February)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -66,6 +60,8 @@ Physics - B
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+During the Makers Academy course I learnt many valuable skills especially when it comes to coding, for example TDD or test driven development was an extremely
+important skill
 
 #### Your University / College (start_date to end_date)
 
